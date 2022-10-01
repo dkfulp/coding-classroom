@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: 1-1: Introduction to Computers and Programming	</title>
+	<atom:link href="http://dkfulp.github.io/coding-classroom/python-1-introduction-to-computers-and-programming/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dkfulp.github.io/coding-classroom/python-1-introduction-to-computers-and-programming/</link>
+	<description>Coding Simplified</description>
+	<lastBuildDate>Sat, 01 Oct 2022 05:20:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+</channel>
+</rss>

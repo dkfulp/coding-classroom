@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dkfulp &#8211; Professor Fulp&#039;s Coding Classroom</title>
+	<atom:link href="http://dkfulp.github.io/coding-classroom/author/dkfulp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dkfulp.github.io/coding-classroom/</link>
+	<description>Coding Simplified</description>
+	<lastBuildDate>Sat, 01 Oct 2022 05:20:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>6-4: Exceptions</title>
+		<link>http://dkfulp.github.io/coding-classroom/6-4-exceptions/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/6-4-exceptions/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:52:36 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=563</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/6-4-exceptions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6-3: Processing Records</title>
+		<link>http://dkfulp.github.io/coding-classroom/6-3-processing-records/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/6-3-processing-records/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:52:22 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=561</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/6-3-processing-records/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6-2: Using Loops to Process Files</title>
+		<link>http://dkfulp.github.io/coding-classroom/6-2-using-loops-to-process-files/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/6-2-using-loops-to-process-files/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:52:05 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=559</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/6-2-using-loops-to-process-files/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>6-1: Introduction to File Input and Output</title>
+		<link>http://dkfulp.github.io/coding-classroom/6-1-introduction-to-file-input-and-output/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/6-1-introduction-to-file-input-and-output/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:51:53 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=557</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/6-1-introduction-to-file-input-and-output/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-11: Turtle Graphics – Modularizing Code with Functions</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-11-turtle-graphics-modularizing-code-with-functions/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-11-turtle-graphics-modularizing-code-with-functions/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:51:25 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=555</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-11-turtle-graphics-modularizing-code-with-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-10: Storing Functions in Modules</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-10-storing-functions-in-modules/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-10-storing-functions-in-modules/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:46:09 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=553</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-10-storing-functions-in-modules/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-9: The math Module</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-9-the-math-module/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-9-the-math-module/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:45:50 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=551</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-9-the-math-module/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-8: Writing Your Own Value-Returning Functions</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-8-writing-your-own-value-returning-functions/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-8-writing-your-own-value-returning-functions/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:45:34 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=549</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-8-writing-your-own-value-returning-functions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-7: Introduction to Value-Returning Functions: Generating Random Numbers</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-7-introduction-to-value-returning-functions-generating-random-numbers/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-7-introduction-to-value-returning-functions-generating-random-numbers/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:45:17 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=547</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-7-introduction-to-value-returning-functions-generating-random-numbers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5-6: Global Variables and Global Constants</title>
+		<link>http://dkfulp.github.io/coding-classroom/5-6-global-variables-and-global-constants/</link>
+					<comments>http://dkfulp.github.io/coding-classroom/5-6-global-variables-and-global-constants/#respond</comments>
+		
+		<dc:creator><![CDATA[dkfulp]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2022 02:44:56 +0000</pubDate>
+				<category><![CDATA[Introduction to Python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python 1]]></category>
+		<guid isPermaLink="false">http://dkfulp.github.io/coding-classroom/?p=545</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://dkfulp.github.io/coding-classroom/5-6-global-variables-and-global-constants/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
