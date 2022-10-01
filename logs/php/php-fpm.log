@@ -10,3 +10,12 @@
 [01-Oct-2022 09:44:45] NOTICE: exiting, bye-bye!
 [01-Oct-2022 09:44:48] NOTICE: fpm is running, pid 1339
 [01-Oct-2022 09:44:48] NOTICE: ready to handle connections
+[01-Oct-2022 10:00:53] NOTICE: Terminating ...
+[01-Oct-2022 10:00:53] NOTICE: exiting, bye-bye!
+[01-Oct-2022 10:00:54] NOTICE: fpm is running, pid 2665
+[01-Oct-2022 10:00:54] NOTICE: ready to handle connections
+[01-Oct-2022 10:10:00] NOTICE: Terminating ...
+[01-Oct-2022 10:10:00] NOTICE: Terminating ...
+[01-Oct-2022 10:10:00] NOTICE: exiting, bye-bye!
+[01-Oct-2022 10:10:04] NOTICE: fpm is running, pid 2846
+[01-Oct-2022 10:10:04] NOTICE: ready to handle connections
